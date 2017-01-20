@@ -1,6 +1,14 @@
-## Release Notes
+## Project Status
 
-[![Current Release](https://maven-badges.herokuapp.com/maven-central/com.lazerycode.jmeter/jmeter-maven-plugin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.lazerycode.jmeter/jmeter-maven-plugin) See the [CHANGELOG](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/blob/master/CHANGELOG.md) for change information.  This plugin requires **JDK 1.7** or higher.
+[![Join the chat at https://gitter.im/jmeter-maven-plugin/jmeter-maven-plugin](https://badges.gitter.im/jmeter-maven-plugin/jmeter-maven-plugin.svg)](https://gitter.im/jmeter-maven-plugin/jmeter-maven-plugin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Build Status](https://travis-ci.org/jmeter-maven-plugin/jmeter-maven-plugin.svg?branch=master)](https://travis-ci.org/jmeter-maven-plugin/jmeter-maven-plugin)
+[![Dependency Status](https://www.versioneye.com/user/projects/56e686a3df573d00495abe1d/badge.svg?style=flat)](https://www.versioneye.com/user/projects/56e686a3df573d00495abe1d)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.lazerycode.jmeter/jmeter-maven-plugin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.lazerycode.jmeter/jmeter-maven-plugin)
+[![Javadoc](https://javadoc-emblem.rhcloud.com/doc/com.lazerycode.jmeter/jmeter-maven-plugin/badge.svg)](http://www.javadoc.io/doc/com.lazerycode.jmeter/jmeter-maven-plugin)
+
+## Release Notes
+ 
+See the [CHANGELOG](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin/blob/master/CHANGELOG.md) for change information.  This plugin requires **JDK 1.7** or higher.
 
 ## Documentation
 
